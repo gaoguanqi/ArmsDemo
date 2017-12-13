@@ -1,1 +1,1 @@
-include ':app', ':armslib'
+include ':app'
